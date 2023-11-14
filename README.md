@@ -5,12 +5,24 @@
 <h2>Description</h2>
 
 <br />
-Creating Small Business Network.
+<b>Creating Small Business Network</b>
 <br />
 ABC company is a fast-growing company in Canada with more than 3 million customers globally.
 The company deals with selling and buying of food items, which are basically operated drom the headquaters.
 The companyis intending to open a branch near the local town Kelowna. Thus, the company requires young IT graduates to design the network for the branch.
 The network is intended to operate separetly from the HQ network. 
+
+
+ -- <b>  Being a small network, the company has the following requirments during implementation:
+
+ - <b>One router and one switch to be used (all CISCO products).</b>
+ - <b>Three departments (Admin/IT, Finance/HR and Customer service/Reception).</b>
+ - <b>Each departmnet is requered to be in defferent VLANS.</b>
+ - <b>Each departament is required to have wireless network for the users.</b>
+ - <b>Host devices in the network are requared to obtain IPv4 address automatically.</b>
+ - <b>Devices in all the departments are required to communicate with each other. </b>
+
+Assume the ISP gave out a base network of 192.168.1.0, you as the young network engineer who has been hired, design and implement a network considiring the above requirements.  
 
 
 <h2>Languages and Utilities Used</h2>
