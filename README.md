@@ -46,12 +46,20 @@ Switch:VLAN:  <br/>
 <img src="https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/Switch_creating_VLAN_all_departments.jpg"/>
 <br />
 <br />
-Creating Access pints for All Departments: <br/>
+Creating Access points for All Departments: <br/>
 <img src="https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/Creating%20acces%20point%20for%20all%20departments.jpg"/>
 <br />
 <br />
-Successful Remote Login:  <br/>
-<img src="https://github.com/Vlad774/ActiveDirectoryLab/blob/main/Success_login.jpg"/>
+Router: Setting up IP for each subnet:  <br/>
+<img src="https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/Router%20setting%20up%20IP%20for%20each%20subnet.jpg"/>
+<br />
+Router: Creating DHCP Pools for All DP  <br/>
+<img src="https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/Router_Creating_DHCP_pools_for_ALL_DP.jpg"/>
+<br />
+<br />
+Test device Communications  <br/>
+<img src="https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/Device%20communication.jpg"/>
+<br />
 
 
 </p>
