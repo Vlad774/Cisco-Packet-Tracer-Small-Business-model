@@ -42,8 +42,8 @@ Small Business Network Setup: <br/>
 <img src="https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/SMALL_BUSINESS_NETWORK_SETUP.jpg"/>
 <br />
 <br />
-Creating Users Script:  <br/>
-<img src="https://github.com/Vlad774/ActiveDirectoryLab/blob/main/Creating%20Users%20script.jpg"/>
+Switch:VLAN:  <br/>
+<img src="https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/Switch_creating_VLAN_all_departments.jpg"/>
 <br />
 <br />
 Login with Automated Users: <br/>
