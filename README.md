@@ -46,8 +46,8 @@ Switch:VLAN:  <br/>
 <img src="https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/Switch_creating_VLAN_all_departments.jpg"/>
 <br />
 <br />
-Login with Automated Users: <br/>
-<img src="https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/SMALL_BUSINESS_NETWORK_SETUP.jpg"/>
+Creating Access pints for All Departments: <br/>
+<img src="https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/Creating%20acces%20point%20for%20all%20departments.jpg"/>
 <br />
 <br />
 Successful Remote Login:  <br/>
