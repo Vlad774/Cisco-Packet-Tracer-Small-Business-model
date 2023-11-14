@@ -39,7 +39,7 @@ Assume the ISP gave out a base network of 192.168.1.0, you as the young network 
 
 <p align="center">
 Small Business Network Setup: <br/>
-<img src=https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/SMALL_BUSINESS_NETWORK_SETUP.jpg"/>
+<img src="https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/SMALL_BUSINESS_NETWORK_SETUP.jpg"/>
 <br />
 <br />
 Creating Users Script:  <br/>
