@@ -27,14 +27,13 @@ Assume the ISP gave out a base network of 192.168.1.0, you as the young network 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
+- <b>Cisco Packet Tracer</b> 
 
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> 
-- <b>Windows Server 2019</b> 
-- <b>Oracle VM</b> 
+
 
 <h2>Walk-through:</h2>
 
