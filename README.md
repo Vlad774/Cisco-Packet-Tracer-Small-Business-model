@@ -47,7 +47,7 @@ Creating Users Script:  <br/>
 <br />
 <br />
 Login with Automated Users: <br/>
-<img src="https://github.com/Vlad774/ActiveDirectoryLab/blob/main/Login_with_Automated_users.jpg"/>
+<img src="https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/SMALL_BUSINESS_NETWORK_SETUP.jpg"/>
 <br />
 <br />
 Successful Remote Login:  <br/>
