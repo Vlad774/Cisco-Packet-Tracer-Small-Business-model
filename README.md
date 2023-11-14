@@ -38,8 +38,8 @@ Assume the ISP gave out a base network of 192.168.1.0, you as the young network 
 <h2>Walk-through:</h2>
 
 <p align="center">
-Diagram: <br/>
-<img src="[https://github.com/Vlad774/ActiveDirectoryLab/blob/main/Creating%20Users%20script.jpg](https://github.com/Vlad774/ActiveDirectoryLab/blob/main/diagram.jpg)"/>
+Small Business Network Setup: <br/>
+<img src="[https://github.com/Vlad774/Cisco-Packet-Tracer-Small-Business-model/blob/main/SMALL_BUSINESS_NETWORK_SETUP.jpg)"/>
 <br />
 <br />
 Creating Users Script:  <br/>
