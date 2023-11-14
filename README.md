@@ -7,10 +7,7 @@
 <br />
 <b>Creating Small Business Network</b>
 <br />
-ABC company is a fast-growing company in Canada with more than 3 million customers globally.
-The company deals with selling and buying of food items, which are basically operated drom the headquaters.
-The companyis intending to open a branch near the local town Kelowna. Thus, the company requires young IT graduates to design the network for the branch.
-The network is intended to operate separetly from the HQ network. 
+ABC Company is a fast-growing Canadian company with over 3 million global customers. The company specializes in buying and selling food items and operates primarily from its headquarters. Currently, there are plans to establish a branch near the local town of Kelowna. Consequently, the company is seeking young IT graduates to design the network infrastructure for this branch. The network for the new branch is intended to operate independently from the headquarters' network.
 
 
  -- <b>  Being a small network, the company has the following requirments during implementation:
